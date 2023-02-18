@@ -3,7 +3,7 @@ A remake of the Pandora interface from 2015.
 
 <img src="https://raw.githubusercontent.com/Tech-How/Pandora-Classic/main/images/repo/readme/1.png"/>
 
-This theme aims to recreate the Pandora web user interface from around 2015. It uses the original splash screen and logo for the Now Playing screen, and the same gradients from the old flash website. I've done my best to test every aspect of the website, but if there's something I missed, feel free to open an issue report.
+This theme aims to recreate the Pandora web user interface from around 2015. It uses the original splash screen and logo for the Now Playing screen, and the same gradients from the old flash website. I've done my best to test every aspect of the website, but if there's something I missed, or you just have ideas, feel free to open an issue report.
 
 **[Install with Stylish extension](https://userstyles.org/styles/207587/light-theme-for-youtube-music)**
 
