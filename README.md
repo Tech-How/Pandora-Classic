@@ -5,6 +5,8 @@ A remake of the Pandora interface from 2015.
 
 This theme aims to recreate the Pandora web user interface from around 2015. It uses the original splash screen and logo for the Now Playing screen, and the same gradients from the old flash website. I've done my best to test every aspect of the website, but if there's something I missed, or you just have ideas, feel free to open an issue report.
 
+⚠ In the coming months, my styles will be migrating to the Stylus extension and will be hosted on userstyles.world. [Learn more](https://github.com/Tech-How/Pandora-Classic/blob/main/migration.md) about what this change means for you, and what steps you should take.
+
 **[Install with Stylish extension](https://userstyles.org/styles/259550/pandora-classic)**
 
 [Issues/Feedback Center](https://github.com/Tech-How/Pandora-Classic/issues/new/choose)
