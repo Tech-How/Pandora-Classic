@@ -8,6 +8,8 @@ This theme aims to recreate the Pandora web user interface from around 2015. It 
 [![Install with Stylus](https://raw.githubusercontent.com/Tech-How/Pandora-Classic/main/images/repo/readme/install-button.png)](https://userstyles.world/style/8985/pandora-classic)
 [![Issues/Feedback](https://raw.githubusercontent.com/Tech-How/Pandora-Classic/main/images/repo/readme/issues-button.png)](https://github.com/Tech-How/Pandora-Classic/issues/new/choose)
 
+[Need help installing?](https://github.com/Tech-How/Pandora-Classic/blob/main/HELP.md)
+
 ## v1.0 Release Notes
 - Initial commit
 
