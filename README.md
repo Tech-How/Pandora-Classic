@@ -12,6 +12,3 @@ This theme aims to recreate the Pandora web user interface from around 2015. It 
 
 ## v1.1 Release Notes
 - Updated to make background image scale better at larger screen sizes
-
----
-**This theme may not be copied and/or redistributed in any way, shape or form, excluding the one copy you obtain from my Userstyles or GitHub page.**
